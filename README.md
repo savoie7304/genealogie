@@ -1,6 +1,6 @@
 # 🌳 Généalogie
 
-Je ne trouvais aucune application d'arbre généalogique moderne, fluide ou simplement agréable à utiliser visuellement. Alors j'ai développé ma propre solution : une application de bureau complète, propre, et sans fioritures.
+Je ne trouvais aucune application d'arbre généalogique qui tenait la route, alors j'ai fait la mienne. Et ça marche !
 
 ## 🏗️ Architecture
 
@@ -35,7 +35,7 @@ Encapsuler une stack Web moderne dans une application de bureau native via Elect
 
 ```bash
 # 1. Cloner le projet
-git clone https://github.com/<votre-user>/genealogie.git
+git clone https://github.com/savoie7304/genealogie.git
 cd genealogie
 
 # 2. Installer (Front & Desktop)
@@ -84,10 +84,10 @@ Génère un fichier autonome dans `electron/dist/` selon ta plateforme :
 
 | Plateforme | Fichier | Type |
 |---|---|---|
-| Linux | `Généalogie-1.0.0.AppImage` | Portable — un seul fichier, zéro installation |
+| Linux | `Généalogie-1.0.0.AppImage` | Portable |
 | macOS | `Généalogie-1.0.0.dmg` | Image disque à monter |
 | Windows | `Généalogie Setup 1.0.0.exe` | Installateur |
-| Windows | `Généalogie 1.0.0.exe` | Portable — comme une AppImage, cliques et ça marche |
+| Windows | `Généalogie 1.0.0.exe` | Portable |
 
 L'option **portable** (Windows) fonctionne comme l'AppImage Linux : aucun installeur, aucun répertoire système modifié, tu le poses où tu veux et tu le lances.
 
