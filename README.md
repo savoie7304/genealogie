@@ -10,10 +10,10 @@ Application de généalogie de bureau — arbre familial interactif avec un back
 ┌──────────────────────────────────────────┐
 │              Electron Window             │
 │  ┌────────────────────────────────────┐  │
-│  │      React + Vite + Tailwind      │  │
+│  │      React + Vite + Tailwind       │  │
 │  │  (frontend/)                       │  │
 │  └──────────────┬─────────────────────┘  │
-│                 │ HTTP (localhost)        │
+│                 │ HTTP (localhost)       │
 │  ┌──────────────▼─────────────────────┐  │
 │  │      Spring Boot 3 (backend/)      │  │
 │  │  API REST /api/*                   │  │
