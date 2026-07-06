@@ -28,7 +28,7 @@ Encapsuler une stack Web moderne dans une application de bureau native via Elect
 
 ## 🛠️ Prérequis
 
-- **Java 21+** (Le JRE suffit, j'ai pré-compilé le backend)
+- **Java 21+** (Le JRE suffit, backend pré-compilé)
 - **Node.js 18+**
 
 ## 🚀 Installation & Lancement rapide
