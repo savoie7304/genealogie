@@ -1,6 +1,6 @@
 # Généalogie
 
-Application de généalogie de bureau — arbre familial interactif avec un backend Spring Boot et une interface React, le tout embarqué dans une fenêtre Electron.
+Je ne trouvais aucune application d'arbre généalogique qui tenait la route, alors j'ai fait la mienne
 
 ![Aperçu](screenshot.png)
 
